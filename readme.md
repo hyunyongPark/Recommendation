@@ -40,7 +40,7 @@ docker exec -it fashion bash
 # Segmentation Task
 - Cascade mask rcnn
 
-<img src=figure/cascasde.png width="700">
+<img src=cascasde.png width="700">
 
 
 - Train/Test Cascade mask rcnn fine-tuning on *DeepfashionV2*

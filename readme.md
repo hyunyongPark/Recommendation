@@ -61,7 +61,7 @@ sh script/run_seg_deepfahsion_cascade.sh
 
 - Output
 
-<img src=figure/mask_out.png width="700">
+<img src=mask_out.png width="700">
 
 # Performance for Deepfashion-v2
 
@@ -167,7 +167,7 @@ sh script/run_seg_deepfahsion_cascade.sh
 
 # Recommendation Task
 
-<img src=figure/cgd.png width="700">
+<img src=cgd.png width="700">
 
 
 - Train/Test combined global descriptors on *Kfashion* using *Cascade mask rcnn*
@@ -218,6 +218,6 @@ sh script/run_seg_image.sh
 
 - Output
 
-<img src=figure/seg_eg.png width="700">
+<img src=seg_eg.png width="700">
 
 
